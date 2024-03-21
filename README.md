@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiwyil2tr
 - 👀 I’m interested in linux
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wiwyil2tr@gmail.com
 - When i was young i listen to the radio
